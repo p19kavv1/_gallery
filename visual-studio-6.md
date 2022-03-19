@@ -8,7 +8,6 @@ license_url: https://i.stack.imgur.com/HEcDn.png
 license_text: Courtesy of StackOverflow
 categories:
   - Εργαλεία
-  - Προγραμματιστικό Περιβάλλον
 tags:
   - Microsoft
   - IDE

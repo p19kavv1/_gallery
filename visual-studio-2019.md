@@ -8,7 +8,6 @@ license_url: https://visualstudio.microsoft.com/wp-content/uploads/2019/03/light
 license_text: Courtesy of Microsoft
 categories:
   - Εργαλεία
-  - Προγραμματιστικό Περιβάλλον
 tags:
   - Microsoft
   - IDE

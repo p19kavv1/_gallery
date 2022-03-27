@@ -10,6 +10,6 @@ categories:
   - Κονσόλες 
   - Μορφές
 tags:
-  - Nintendo Entertainment Systeam
+  - Nintendo Entertainment System
   - Nintendo
 ---
